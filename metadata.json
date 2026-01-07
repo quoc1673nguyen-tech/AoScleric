@@ -1,0 +1,5 @@
+{
+  "name": "Clergy Management System (AoS)",
+  "description": "A comprehensive management system for clergy information, featuring administrative CRUD capabilities, public search, and data persistence via LocalStorage.",
+  "requestFramePermissions": []
+}
